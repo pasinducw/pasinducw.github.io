@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pasinducw.github.io/sitemap.xml
+Sitemap: https://pasindu.fyi/sitemap.xml
