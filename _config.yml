@@ -221,6 +221,7 @@ exclude:
   - package-lock.json
   - _news/samples/
   - _posts/samples/
+  - _projects/samples/
   - purgecss.config.js
   - README.md
   - readme_preview/
